@@ -1,1 +1,40 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+    text-align: center;
+}
+h1{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:50px;
+}
+.container{
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+}
+.content{
+    text-align: center;
+}
+img{
+    margin:15px;
+}
+p{
+    color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:21px;
+}
+a{
+    font-size:16px;
+    color:aquamarine;
 
+}
+footer{
+    text-align:right;
+    color:gray;
+}
